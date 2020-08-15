@@ -30,7 +30,7 @@ Try V-Training.
   - http://v-training.m5stack.com/
 - But it's too slow and every time it stops with an error in the middle...
   - I'll try again later.
-- Finally, I could upload successfully, but got an error mail from V-Trainer.
+- Finally, I could upload successfully, but got an error mail from V-Trainer soon.
 ```
 CONTENT: Lake of Enough Train Dataset, Only 177 pictures found, but you need 180 in total.
 
@@ -42,16 +42,19 @@ Image 9.jpg was removed for being too close to 7.jpg, hashdiff: 2
 
 ...
 ```
+
 - It seems some of the pictures were too similar and didn't seem appropriate as input.
   - As a result of their elimination, the amount of data was insufficient.
 - So next, I took the pictures of three Pokemon figures from various angles.
   - In case some pictures are eliminated as well, I took 50 picutres per one.
 <img src="https://user-images.githubusercontent.com/562105/90320697-5c8f7400-df7e-11ea-97e6-32bf4a2b0a2c.png" width="320px">
-- BTW, uploading to V-Training was quite fast at 5 am JST.
 
 ## Troubles
 - Document says, `Power on ：Long press power button for 2 seconds`, but it does not work for my device.
   - I need to press Power on twice in a short time.
+- Uploading fails by errors on V-Training page.
+  - I suggest trying it at a different time of day.
+  - As for me, uploading to V-Training was quite fast at 5 am JST.
 
 ## References
 - https://docs.m5stack.com/#/en/quick_start/m5stickv/m5stickv_quick_start
