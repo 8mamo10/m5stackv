@@ -24,7 +24,8 @@ Try V-Training.
   - Reject SD card from M5StackV for this
 
 ### V-training
-- I took picutres of 6 Pokemon cards rom each of the four directions, total 40 picutes for each pokemon.
+- I took picutres of 6 Pokemon cards from each of the 4 directions * 10 times, total 40 picutes for each pokemon.
+  - About 240 pictures in total.
 - Upload to V-Training.
   - http://v-training.m5stack.com/
 - But it's too slow and every time it stops with an error in the middle...
