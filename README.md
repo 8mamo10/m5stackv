@@ -49,6 +49,17 @@ Image 9.jpg was removed for being too close to 7.jpg, hashdiff: 2
   - In case some pictures are eliminated as well, I took 50 picutres per one.
 <img src="https://user-images.githubusercontent.com/562105/90320697-5c8f7400-df7e-11ea-97e6-32bf4a2b0a2c.png" width="320px">
 
+- After uploading, the finish notification mail has come from V-Trainer in 5 minutes.
+```
+Your training request have been successfully processed, you can download the kmodel & sample program files here:
+http://v-training-fs.m5stack.com/xxx.zip
+
+Model: Classification MobileNetV1 Alpha: 0.7 Depth: 1
+```
+
+- Down load the zip file and copy to SD card. And reboot the device.
+- It works!
+
 ## Troubles
 - Document says, `Power on ：Long press power button for 2 seconds`, but it does not work for my device.
   - I need to press Power on twice in a short time.
@@ -59,3 +70,4 @@ Image 9.jpg was removed for being too close to 7.jpg, hashdiff: 2
 ## References
 - https://docs.m5stack.com/#/en/quick_start/m5stickv/m5stickv_quick_start
 - https://docs.m5stack.com/#/en/related_documents/v-training
+- https://maixpy.sipeed.com/en/libs/standard/
